@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Pramo-d/Pramo-d/blob/main/Top-10-Front-End-Developer-Skills-That-You-Need-in-2022.png)
  <h1 align="center">Hi 👋, I'm Pramod Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
